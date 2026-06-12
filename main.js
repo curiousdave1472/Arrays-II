@@ -25,3 +25,5 @@ console.log(findElement(words, "Butterfly"));
 console.log(findElement(words, "Deer"));
 
 console.log(findElement(words, "Buffalo"));
+
+// The result should be True , True and false.
